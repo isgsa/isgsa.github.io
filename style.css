@@ -5,6 +5,8 @@ body {
   
   h1 {
     color: darkgrey;
+    font-style: bold;
+    font-size: 20px;
   }
 
   html {
