@@ -1,8 +1,16 @@
 body {
-    background-color: lightblue;
+    background-color: white;
   }
   
   h1 {
-    color: navy;
+    color: black;
     margin-left: 20px;
   }
+
+  html {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
