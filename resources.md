@@ -1,8 +1,8 @@
 # Resources
 
 ## Information Science
-* <a href="https://isgsa.github.io/orientation">New Student Orientation</a>
-* >a href="https://isgsa.github.io/mailing_lists">Mailing Lists</a>
+* [New Student Orientation](https://isgsa.github.io/orientation)
+* [Mailing Lists](https://isgsa.github.io/mailing_lists)
 * Files
 * CS Wiki
 * Cornell IS
