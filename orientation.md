@@ -7,13 +7,13 @@ Welcome to Information Science at Cornell! This guide has been created by curren
 ## Useful Websites
 
 * StudentCenter
-⋅⋅⋅You probably already know this one. It is the most accurate and up-to-date source of relevant information with regards to your formal status in the university.
+  You probably already know this one. It is the most accurate and up-to-date source of relevant information with regards to your formal status in the university.
 * StudentEssentials
-⋅⋅⋅Cornell's more global version of this site.
+  Cornell's more global version of this site.
 * Cornell Workday
-⋅⋅⋅View your payslips and get your tax forms. Also, update your bank account information for your salaries to go into, etc.
+  View your payslips and get your tax forms. Also, update your bank account information for your salaries to go into, etc.
 * WhoIAm
-⋅⋅⋅Cornell gives you the choice of putting e-mail to your netID address into either CMail (i.e. GMail) or an Exchange account (i.e. Outlook; if you activate it), or forward it to an arbitrary e-mail address you give them. This page is where you configure that. You can also configure how you show up in Cornell's electronic directory here.
+  Cornell gives you the choice of putting e-mail to your netID address into either CMail (i.e. GMail) or an Exchange account (i.e. Outlook; if you activate it), or forward it to an arbitrary e-mail address you give them. This page is where you configure that. You can also configure how you show up in Cornell's electronic directory here.
 
  
 ## Housing
@@ -89,9 +89,9 @@ There are also some fun courses available to all students at Cornell. Some cours
 ## Things to do in Ithaca
 
 * Ithaca Farmer’s Market
-⋅⋅⋅http://www.ithacamarket.com/
-⋅⋅⋅Open on various days of the week and various locations.
-⋅⋅⋅Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
+    http://www.ithacamarket.com/
+    Open on various days of the week and various locations.
+    Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
 * Ithaca Falls
 ⋅⋅⋅This is a bit waterfall just a 15 minute walk from downtown.
 
