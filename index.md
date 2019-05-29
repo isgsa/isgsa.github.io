@@ -10,6 +10,7 @@ permalink: /
 # Welcome
 
 Welcome to the ISGSA website!
+{: .fs-6 .fw-300 }
 
 This space is for current graduate students to share information and resources. 
 
