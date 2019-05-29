@@ -5,25 +5,57 @@ nav_order: 3
 permalink: /travel/
 ---
 # Campus-to-Campus Travel Policies
-Note that these have recently changed and the following is out of date.
+{: .no_toc}
+The IS Department provides support for travel between the Ithaca and NY Campus via the following policy.
 {: .fs-6 .fw-300 }
 
-To encourage academically focused travel of Ph.D. students between the Ithaca campus and the Cornell Tech campus in New York City, a program of financial support is being piloted. Cornell Tech, the Jacobs Institute at Cornell Tech, Computing and Information Science, and the College of Engineering have each agreed to allocate funds for travel. The goal is to make processes as streamlined as possible as a pilot and make enhancements if travel support continues in the future. Carefully read the information below before submitting the travel support application.
+Please see the [Inter-Campus Travel Fund](https://infosci.cornell.edu/phd/current-phds/inter-campus-travel-fund) for more information.
 
-1. Basic principle: The student’s faculty supervisor provides 50 percent of the cost of the student’s travel, and the other 50 percent is covered by funding from the Dean or Director (Jacobs Institute) where the student’s tuition is credited. [Exception on supervisor funding in scenario 3a noted below.]
 
-2. Travel must be approved in advance and submitted to the appropriate Dean’s financial office with signature or email approval of faculty supervisor included.
+## Table of contents
+{: .no_toc .text-delta }
 
-3. Travel scenarios and expense limits:
+1. TOC
+{:toc}
 
-* Ithaca-based Ph.D. student is interested in having a Cornell Tech faculty as their advisor (with request from interested NYC faculty; no faculty funding required) : Up to $400/trip with cap of $1,200 per semester.
 
-* Ph.D. is student traveling for either a research collaboration or academic event at the other campus (with faculty supervisor approval and 50% funding): Up to $400/trip with cap of $1,200 per semester.
 
-* PhD student with advisor on the other campus travels to meet with advisor/group (with faculty supervisor approval and 50% funding): Up to $1,800 per semester.
+## Travel Policy: These guidelines are in effect May 15, 2019.
 
-* PhD student with advisor in NYC takes course in Ithaca (with faculty supervisor approval and 50% funding): Up to $400/trip with cap of $1,650 per semester.
+Principle:  We want to create an environment where members of the IS department are encouraged to take advantage of the academic opportunities at our two locations in Ithaca and at Cornell Tech. To encourage such interactions, academic-focused travel by Ph.D. students and faculty between the two campuses may be financially supported whenever there is a clear business purpose.
 
-4. Student must submit a travel reimbursement request with appropriate receipts (see here for procedures).
+### Funding will be available for
 
-To receive reimbursement, fill out and submit this form. Ithaca-based students may submit the completed form either in-person or via email to Finance Manager Yl Guanchez at yg77@cornell.edu, 105E Gates Hall. For Cornell Tech-based students, please submit the completed form via email to the Cornell Tech Finance Team at finance@tech.cornell.edu.
+1. Ph.D. student travels from one campus to another to network with prospective faculty advisors or committee members.
+2. Ph.D. student with an advisor based at the other campus traveling to meet with their advisor/group.
+3. Ph.D. student is taking one of the 5 IS core courses and would like to attend a lecture at the other campus in person.
+4. Ph.D. student is traveling where the primary purpose is in service to the field or an academic event, ie. Ph.D visit day.   
+
+The funding available to support Ph.D. travel is limited. Reimbursement is for transportation and lodging only and is capped at $500 per trip; the limit for any one traveler is 2 trips per academic year.  Subject to these limits, all travel in the above categories will be supported as long as funding is available. If funds for a particular semester run low, support for PhD travel will be prioritized with preference to travelers who have not already been supported in that semester.
+
+### Funding is not intended for
+
+1. Moving expenses
+2. Non Cornell hosted conference travel
+3. Recreation
+
+### Travel planning process
+
+To ensure smooth and convenient travel, and to ensure funds are still available, arrangements/approval for trips should be made in advance.  Reimbursements for trips not approved in advance may be denied if funding has run low.
+
+### Process to Apply for IS Travel Funding
+
+* Regardless of which campus you are leaving from, please notify Barbara Woske in advance (two weeks prior to trip) about your planned trip. All arrangements will be coordinated out of Ithaca.
+* If traveling from Ithaca to TECH, secure a Faculty Host. Their signature is required on the support application form.
+* Use Adobe to complete the IS PhD Travel Support Application Form or print, collect signatures, scan and send via email to Barbara.  NOTE: An email confirmation from the DGS, Tanzeem Choudhury, is acceptable in lieu of her signature. Please be sure Barbara Woske and Terry Horgan are copied on this email.
+* Barbara/Terry Horgan will let you know about any limitations on reimbursement for your trip.
+* Use the checklist (below) to arrange bus, lodging, and card access.
+* After travel is complete (within 30 days), please submit all travel and lodging receipts to Terry Horgan. Reimbursements beyond 30 days after the trip may be denied if funding has run low in the meantime.
+
+### Checklist
+
+1. Reserve your transportation
+2. Arrange your lodging
+3. Arrange card access for Cornell Tech — arrange through your faculty host so that you can come and go freely with your Cornell ID
+4. For students traveling to Ithaca; please check in with Barbara, 110 G Gates Hall or send her an email shortly after your arrival.  If you have any issues with your ID card accessing Gates, let Barbara and Terry know immediately. For students traveling to Tech be sure to check in with your faculty host as soon as possible.  
+5. File for reimbursement within 30 days of trip by emailing your receipts to Terry Horgan.

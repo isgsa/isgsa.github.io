@@ -28,6 +28,7 @@ The Information Science Graduate Student Organization (ISGSA) represents all gra
 * GPSA Representative: TBA
 * Admissions Representatives (Ithaca): Mose Sakashita, Yoyo Tsung Hou
 * Admissions Representatives (NYC): Andrea Cuadra
+* Cornell Tech Liason: Anthony Poon
 
 ## 2018-2019 Executive Board
 
