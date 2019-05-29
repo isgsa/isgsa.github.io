@@ -2,9 +2,10 @@
 
 html {
     margin-top: 80px;
-    margin-bottom: 100px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-bottom: 80px;
+    margin-right: 80px;
+    margin-left: 80px;
+    width: 500px;
     font-family: arial;
 }
 
