@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Travel
-nav_order: 3
-permalink: /travel/
+nav_order: 4
+parent: Resources
 ---
 # Campus-to-Campus Travel Policies
 {: .no_toc}
