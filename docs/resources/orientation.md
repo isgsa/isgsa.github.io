@@ -6,8 +6,17 @@ parent: Resources
 ---
 
 # New Student Orientation
-
+{: .no_toc}
 Welcome to Information Science at Cornell! This guide has been created by current PhD students to help orient you in Ithaca. It covers basic information such as finding housing, buying groceries, and using the bus system.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
  
 
