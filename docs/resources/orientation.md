@@ -104,110 +104,37 @@ There are also some fun courses available to all students at Cornell. Some cours
  
 ## Things to do in Ithaca
 
-* Ithaca Farmer’s Market
-    http://www.ithacamarket.com/
-    Open on various days of the week and various locations.
-    Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
-* Ithaca Falls
-⋅⋅⋅This is a bit waterfall just a 15 minute walk from downtown.
-
-Buttermilk Falls
-
-10 minute drive from campus.
-
-Lots of hiking trails and beautiful waterfall to explore. Multiple picnic areas and especially nice in the summer.
-
-Cornell Botanic Gardens
-
-http://www.cornellbotanicgardens.org/
-
-An enormous and gorgeous park that is part of the Cornell Campus, with walking paths and ponds full of turtles and colorful fish.
-
-You can walk from Gates, but it’s a long walk -- budget at least an hour or two, but you’ll have to make multiple trips to fully explore.
-
-Nearby towns
-
-Trumansburg (some nice restaurants, bars, and music)
-
-Indian Creek Farm
-
-https://indiancreekithaca.com/
-
-Apple picking in the fall, and other fruits and vegetables available to pick in different seasons
-
-Only a 10 minute drive from Ithaca
-
-Also has a nice produce stand, with apple juice, fruits and vegetables, and apple cider donuts (smile)
+* Ithaca Farmer’s Market: Open on various days of the week and various locations. Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
+* Ithaca Falls: This is a bit waterfall just a 15 minute walk from downtown.
+* Buttermilk Falls: 10 minute drive from campus. Lots of hiking trails and beautiful waterfall to explore. Multiple picnic areas and especially nice in the summer.
+* [Cornell Botanic Gardens](http://www.cornellbotanicgardens.org/): An enormous and gorgeous park that is part of the Cornell Campus, with walking paths and ponds full of turtles and colorful fish. You can walk from Gates, but it’s a long walk -- budget at least an hour or two, but you’ll have to make multiple trips to fully explore.
+* Trumansburg: (some nice restaurants, bars, and music)
+* [Indian Creek Farm](https://indiancreekithaca.com/): Apple picking in the fall, and other fruits and vegetables available to pick in different seasons. Only a 10 minute drive from Ithaca. Also has a nice produce stand, with apple juice, fruits and vegetables, and apple cider donuts (smile)
 
  
-Places to eat
-On campus
-Temple of Zeus
+## Places to eat
 
-Maybe the best lunch on campus, but crowded and hard to find a place to sit.
+### On campus
+* Temple of Zeus: Maybe the best lunch on campus, but crowded and hard to find a place to sit. 5-10 minute walk from Gates. Soups, sandwiches.
+* Terrace: Popular lunch place for Gates inhabitants. Closes at 3. Good salads, burritos and bowls.
+* Gimme Coffee: Located in Gates. Pastries only.
+* Duffield: Located near Gates. Food isn’t great, but this is the closest option to Gates. Soups, pre-packaged sandwiches, yogurt, etc.
+* Trillium: A short walk up from gates to the Ag Quad. Food is really nice, lot of options and good portions. Mexican, Chinese, American.
+* Cornell Dairy Bar: Satisfy your ice cream cravings with imaginative flavors made at Cornell. 15 minute walk from Gates, and highly recommended!
 
-5-10 minute walk from Gates.
+### Cafes
+* Gimme Coffee: Located in Gates and in two locations downtown. Delicious coffee that will fuel your long afternoons of research.
+* College Town Bagels (CTB): Located both in Collegetown and downtown. Bagels, sandwiches, smoothies, pastries, coffee, ice cream… Everything you could ask for!
+* Coal Yard Cafe: A 20 minute walk from Gates, nice for a brunch outing. Delicious coffee, cinnamon rolls, crepes…
 
-Soups, sandwiches.
-
-Terrace
-
-Popular lunch place for Gates inhabitants. Closes at 3.
-
-Good salads, burritos and bowls.
-
-Gimme Coffee
-
-Located in Gates.
-
-Pastries only.
-
-Duffield
-
-Located near Gates.
-
-Food isn’t great, but this is the closest option to Gates. Soups, pre-packaged sandwiches, yogurt, etc.
-
-Trillium
-
-A short walk up from gates to the Ag Quad
-
-Food is really nice, lot of options and good portions. Mexican, Chinese, American.
-
-Cornell Dairy Bar
-
-Satisfy your ice cream cravings with imaginative flavors made at Cornell.
-
-15 minute walk from Gates, and highly recommended!
-
-Cafes
-Gimme Coffee
-
-Located in Gates and in two locations downtown. Delicious coffee that will fuel your long afternoons of research.
-
-College Town Bagels (CTB)
-
-Located both in Collegetown and downtown. Bagels, sandwiches, smoothies, pastries, coffee, ice cream… Everything you could ask for!
-
-Coal Yard Cafe
-
-A 20 minute walk from Gates, nice for a brunch outing. Delicious coffee, cinnamon rolls, crepes…
-
-Restaurants
-Just a Taste
-
-$$ Tapas (small dishes) and wine bar. Highly recommended!
-
-Cent Dix
-
-$$$ French food, delicious but expensive.
-
-Northstar House
-
-$$ Located in Fall Creek, casual place for brunch or dinner
+### Restaurants
+* Just a Taste: $$ Tapas (small dishes) and wine bar. Highly recommended!
+* Cent Dix: $$$ French food, delicious but expensive.
+* Northstar House: $$ Located in Fall Creek, casual place for brunch or dinner
 
  
-Healthcare
+## Healthcare
+
 Cornell Health (formerly called Gannett) will probably be your main resource for healthcare. They are located on campus at 110 Ho Plaza.
 
 You can use their website to make appointments and order refills of prescriptions.
@@ -215,25 +142,27 @@ You can use their website to make appointments and order refills of prescription
 Their website is: https://health.cornell.edu/ 
 
  
-Working in Gates
+## Working in Gates
+
 Gates Hall houses both the Computer Science and Information Science departments. Below is some information specific to Gates.
 
-Wifi
+### Wifi
 Use eduroam instead of RedRover whenever you can. eduroam is more secure, and as a bonus you automatically get internet at many universities across the world (especially in Europe). Just log on with "[NetID]@cornell.edu" as your username and your NetID password. Warning: free Internet usage for students is capped at 100GB. After those 100GB, you'll have to pay for your usage. This does not apply to machines plugged into the CS network (i.e. your desktop, or also your laptop when using a wired connection in Gates), so you should largely be fine.
 
-Software
+### Software
 Cornell offers lots of productivity software either for free or with large discounts. In particular, you can get a free Microsoft Office 365 license.
 
  
-Getting out of Ithaca
-Getting to NYC
+## Getting out of Ithaca
+
+### Getting to NYC
 The best way to get to NYC is the Cornell Campus to Campus bus. This bus will pick you up at the Sage Hall bus stop (very close to Gates) and drop you off at the Cornell Club near Grand Central Station in Manhattan. It has wifi, snacks, and relatively comfy seats.
 
 https://c2cbus.ipp.cornell.edu/ 
 
 If c2c is too expensive for you, you can take the Shortline or the Big Red Bullet, both of which can be booked online and have multiple pick-up stops around town.
 
-Booking flights
+### Booking flights
 Flights out of Ithaca only go to Philadelphia, Newark, and Detroit.
 
 These flights can often be VERY expensive, especially at times when the undergrads will be traveling (just before classes start, the day that spring break starts, etc.). You should plan your travel months in advance, if possible.
