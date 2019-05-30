@@ -1,3 +1,10 @@
+---
+layout: page
+title: Mailing Lists
+nav_order: 2
+parent: Resources
+---
+
 # Mailing Lists
 
 To receive updates about events and other information, you need to be a member of the relevant Cornell listserv (a mailing list).
