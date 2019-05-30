@@ -156,15 +156,15 @@ Cornell offers lots of productivity software either for free or with large disco
 ## Getting out of Ithaca
 
 ### Getting to NYC
-The best way to get to NYC is the Cornell Campus to Campus bus. This bus will pick you up at the Sage Hall bus stop (very close to Gates) and drop you off at the Cornell Club near Grand Central Station in Manhattan. It has wifi, snacks, and relatively comfy seats.
+The easiest way to get to NYC is the Cornell Campus to Campus (C2C) bus. This bus will pick you up at the Sage Hall bus stop (very close to Gates) and drop you off at the Cornell Club near Grand Central Station in Manhattan. It has wifi, snacks, and relatively comfy seats.
 
 https://c2cbus.ipp.cornell.edu/ 
 
-If c2c is too expensive for you, you can take the Shortline or the Big Red Bullet, both of which can be booked online and have multiple pick-up stops around town.
+If C2C is too expensive for you, you can take the Shortline or OurBus, both of which can be booked online and have multiple pick-up stops around town.
 
 ### Booking flights
-Flights out of Ithaca only go to Philadelphia, Newark, and Detroit.
+Flights out of Ithaca only go to Philadelphia, Washington D.C., and Detroit.
 
-These flights can often be VERY expensive, especially at times when the undergrads will be traveling (just before classes start, the day that spring break starts, etc.). You should plan your travel months in advance, if possible.
+These flights can often be very expensive, especially at times when the undergrads will be traveling (just before classes start, the day that spring break starts, etc.). You should plan your travel months in advance, if possible.
 
-You can also fly to nearby airports, such as Elmira, Syracuse, or NYC and take the bus or rent a car to get to campus. There is a shuttle service (no, not a limo) to Syracuse: http://www.ithacaairlinelimousine.com/to-syracuse 
+You can also fly to nearby airports, such as Elmira, Syracuse, or NYC and take the bus or rent a car to get to campus. There is a shuttle van (no, not a limo) to Syracuse: http://www.ithacaairlinelimousine.com/to-syracuse 
