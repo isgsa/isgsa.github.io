@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Student Orientation
-nav_order: 1
+nav_order: 2
 parent: Resources
 ---
 

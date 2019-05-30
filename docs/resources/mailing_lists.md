@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mailing Lists
-nav_order: 2
+nav_order: 3
 parent: Resources
 ---
 
