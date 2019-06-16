@@ -104,38 +104,51 @@ There are also some fun courses available to all students at Cornell. Some cours
  
 ## Things to do in Ithaca
 
-* Ithaca Farmer’s Market
+* **Ithaca Farmer’s Market**
     * Open on various days of the week and various locations. Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
-* Ithaca Falls
+* **Ithaca Falls**
     * This is a bit waterfall just a 15 minute walk from downtown.
-* Buttermilk Falls: 10 minute drive from campus. Lots of hiking trails and beautiful waterfall to explore. Multiple picnic areas and especially nice in the summer.
-* [Cornell Botanic Gardens](http://www.cornellbotanicgardens.org/)
+* **Buttermilk Falls**
+    * 10 minute drive from campus. Lots of hiking trails and beautiful waterfall to explore. Multiple picnic areas and especially nice in the summer.
+* **[Cornell Botanic Gardens](http://www.cornellbotanicgardens.org/)**
     * An enormous and gorgeous park that is part of the Cornell Campus, with walking paths and ponds full of turtles and colorful fish. You can walk from Gates, but it’s a long walk -- budget at least an hour or two, but you’ll have to make multiple trips to fully explore.
-* Trumansburg
+* **Trumansburg**
     * (some nice restaurants, bars, and music)
-* [Indian Creek Farm](https://indiancreekithaca.com/)
+* **[Indian Creek Farm](https://indiancreekithaca.com/)**
     * Apple picking in the fall, and other fruits and vegetables available to pick in different seasons. Only a 10 minute drive from Ithaca. Also has a nice produce stand, with apple juice, fruits and vegetables, and apple cider donuts (smile)
 
  
 ## Places to eat
 
 ### On campus
-* Temple of Zeus: Maybe the best lunch on campus, but crowded and hard to find a place to sit. 5-10 minute walk from Gates. Soups, sandwiches.
-* Terrace: Popular lunch place for Gates inhabitants. Closes at 3. Good salads, burritos and bowls.
-* Gimme Coffee: Located in Gates. Pastries only.
-* Duffield: Located near Gates. Food isn’t great, but this is the closest option to Gates. Soups, pre-packaged sandwiches, yogurt, etc.
-* Trillium: A short walk up from gates to the Ag Quad. Food is really nice, lot of options and good portions. Mexican, Chinese, American.
-* Cornell Dairy Bar: Satisfy your ice cream cravings with imaginative flavors made at Cornell. 15 minute walk from Gates, and highly recommended!
+* **Temple of Zeus**
+    * Maybe the best lunch on campus, but crowded and hard to find a place to sit. 5-10 minute walk from Gates. Soups, sandwiches.
+* **Terrace**
+    * Popular lunch place for Gates inhabitants. Closes at 3. Good salads, burritos and bowls.
+* **Gimme Coffee**
+    * Located in Gates. Pastries only.
+* **Duffield**
+    * Located near Gates. Food isn’t great, but this is the closest option to Gates. Soups, pre-packaged sandwiches, yogurt, etc.
+* **Trillium**
+    * A short walk up from gates to the Ag Quad. Food is really nice, lot of options and good portions. Mexican, Chinese, American.
+* **Cornell Dairy Bar**
+    * Satisfy your ice cream cravings with imaginative flavors made at Cornell. 15 minute walk from Gates, and highly recommended!
 
 ### Cafes
-* Gimme Coffee: Located in Gates and in two locations downtown. Delicious coffee that will fuel your long afternoons of research.
-* College Town Bagels (CTB): Located both in Collegetown and downtown. Bagels, sandwiches, smoothies, pastries, coffee, ice cream… Everything you could ask for!
-* Coal Yard Cafe: A 20 minute walk from Gates, nice for a brunch outing. Delicious coffee, cinnamon rolls, crepes…
+* **Gimme Coffee**
+    * Located in Gates and in two locations downtown. Delicious coffee that will fuel your long afternoons of research.
+* **College Town Bagels (CTB)**
+    * Located both in Collegetown and downtown. Bagels, sandwiches, smoothies, pastries, coffee, ice cream… Everything you could ask for!
+* **Coal Yard Cafe**
+    * A 20 minute walk from Gates, nice for a brunch outing. Delicious coffee, cinnamon rolls, crepes…
 
 ### Restaurants
-* Just a Taste: $$ Tapas (small dishes) and wine bar. Highly recommended!
-* Cent Dix: $$$ French food, delicious but expensive.
-* Northstar House: $$ Located in Fall Creek, casual place for brunch or dinner
+* **Just a Taste**
+    * $$ Tapas (small dishes) and wine bar. Highly recommended!
+* **Cent Dix**
+    * $$$ French food, delicious but expensive.
+* **Northstar House**
+    * $$ Located in Fall Creek, casual place for brunch or dinner
 
  
 ## Healthcare
