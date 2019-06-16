@@ -104,12 +104,17 @@ There are also some fun courses available to all students at Cornell. Some cours
  
 ## Things to do in Ithaca
 
-* Ithaca Farmer’s Market: Open on various days of the week and various locations. Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
-* Ithaca Falls: This is a bit waterfall just a 15 minute walk from downtown.
+* Ithaca Farmer’s Market
+    * Open on various days of the week and various locations. Tons of food, drinks, fresh produce, plants, local arts and crafts. Great people watching. You have to go!
+* Ithaca Falls
+    * This is a bit waterfall just a 15 minute walk from downtown.
 * Buttermilk Falls: 10 minute drive from campus. Lots of hiking trails and beautiful waterfall to explore. Multiple picnic areas and especially nice in the summer.
-* [Cornell Botanic Gardens](http://www.cornellbotanicgardens.org/): An enormous and gorgeous park that is part of the Cornell Campus, with walking paths and ponds full of turtles and colorful fish. You can walk from Gates, but it’s a long walk -- budget at least an hour or two, but you’ll have to make multiple trips to fully explore.
-* Trumansburg: (some nice restaurants, bars, and music)
-* [Indian Creek Farm](https://indiancreekithaca.com/): Apple picking in the fall, and other fruits and vegetables available to pick in different seasons. Only a 10 minute drive from Ithaca. Also has a nice produce stand, with apple juice, fruits and vegetables, and apple cider donuts (smile)
+* [Cornell Botanic Gardens](http://www.cornellbotanicgardens.org/)
+    * An enormous and gorgeous park that is part of the Cornell Campus, with walking paths and ponds full of turtles and colorful fish. You can walk from Gates, but it’s a long walk -- budget at least an hour or two, but you’ll have to make multiple trips to fully explore.
+* Trumansburg
+    * (some nice restaurants, bars, and music)
+* [Indian Creek Farm](https://indiancreekithaca.com/)
+    * Apple picking in the fall, and other fruits and vegetables available to pick in different seasons. Only a 10 minute drive from Ithaca. Also has a nice produce stand, with apple juice, fruits and vegetables, and apple cider donuts (smile)
 
  
 ## Places to eat
