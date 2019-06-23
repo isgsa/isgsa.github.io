@@ -33,3 +33,9 @@ You need to add yourself to this list. This listserv sends announcements about t
 
 ## cs-brownbag-l
 You need to add yourself to this list. This listserv sends announcements about the weekly CS Brownbag talks.
+
+## cornell-cis-grad-social@googlegroups.com
+This is a social listserv that serves all of CIS. It's mostly used for TGIF and cross-posts from the CIS Slack.
+
+To join, you can use [this link](https://groups.google.com/forum/#!forum/cornell-cis-grad-social).
+
