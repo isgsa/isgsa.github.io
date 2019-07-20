@@ -13,8 +13,8 @@ To receive updates about events and other information, you need to be a member o
 
 [Here](https://it.cornell.edu/lyris/leave-e-lists-lyris) are instructions to leave a listserv.
 
-## isphds-l
-You will be added to this listserv automatically. This list contains important announcements and information specifically for IS PhD students. Some admin and professors are on this listserv.
+## phd@infosci.cornell.edu
+You will be added to this listserv automatically. This list contains important announcements and information specifically for IS PhD students. Some admin and professors are on this listserv, and it is mostly used for official announcements and reminders.
 
 ## isrumgone-l
 You will be added to this listserv automatically. This is an informal list for *only* PhD students (no faculty or admins) to talk about fun stuff, ask for advice, etc.
