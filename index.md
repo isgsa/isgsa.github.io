@@ -2,7 +2,7 @@
 
 Welcome to the ISGSA website!
 
-This space is for current graduate students to share information and resources. 
+This space is for current graduate students in Information Science at Cornell University to share information and resources. 
 
 <br><br>
 
