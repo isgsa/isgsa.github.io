@@ -7,7 +7,7 @@ permalink: /events/
 
 # Events
 {: .no_toc}
-ISGSA hosts an co-hosts a number of recurring and ad-hoc events during each semester.
+ISGSA hosts and co-hosts a number of recurring and ad-hoc events during each semester.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
