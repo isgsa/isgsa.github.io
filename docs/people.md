@@ -16,6 +16,42 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
+## Entered in 2020
+* Jatin Arora
+* Alexandra Bremers
+* Youjie Chen
+* Xiyu (Jenny) Fu
+* Ricardo Gonzalez
+* Breanna Green
+* Sharon Heung
+* Menglin Jia
+* Pin-Sung Ku
+* Xiaoyan Li
+* Ke Li
+* Ilan Mandel
+* Joy Ming
+* Pegah Moradi
+* Aspen Russell
+* Mehrnaz Sabet
+* Farhana Shahid
+* Rosamond Thalken
+* Ruidong Zhang
+* Dandi Zhao
+
+## Entered in 2019
+* Dan Adler
+* Marianne Aubin Le Quere
+* Anthonia Carter
+* Natalie Friedman
+* Margot Hanley
+* Yin Li
+* Hyunchul Lim
+* Andrew Szmurlo
+* Emily Tseng
+* Kimberly Williamson
+* Jing (Nathan) Yan
+* Yiran Zhao
+
 ## Entered in 2018
 * Brenda Castro
 * Ji Yong Cho
@@ -40,6 +76,7 @@ This is a listing of past and present Information Science PhD students, by the y
 * Jiajing Guo
 * Bradi Heaberlin
 * Jess Hohenstein
+* Negar Khojasteh
 * Yoyo Tsung-Yu Hou
 * Maurice Jakesch
 * Samar Sabie
@@ -50,6 +87,7 @@ This is a listing of past and present Information Science PhD students, by the y
 * Amy Cheatle
 * Diana Freed
 * Lauren Kilgour
+* Negar Khojasteh
 * Matthew Law
 * Seongtaek Lim
 * Anthony Poon
@@ -58,6 +96,8 @@ This is a listing of past and present Information Science PhD students, by the y
 * Natalie Tong
 * Palashi Vaghela
 * Vibhore Vardhan
+* Eric Wang
+* Luping Wang
 * Hongyi Wen
 
 ## Entered in 2015
