@@ -22,13 +22,15 @@ Welcome to Information Science at Cornell! This guide has been created by curren
 
 ## Useful Websites
 
-* StudentCenter
+* [StudentCenter](https://studentcenter.cornell.edu/)
   You probably already know this one. It is the most accurate and up-to-date source of relevant information with regards to your formal status in the university.
-* StudentEssentials
+* [StudentEssentials](https://studentessentials.cornell.edu/)
   Cornell's more global version of this site.
-* Cornell Workday
+* [Cornell Workday](https://hr.cornell.edu/workday)
   View your payslips and get your tax forms. Also, update your bank account information for your salaries to go into, etc.
-* WhoIAm
+* [Cornell Outlook](http://outlook.cornell.edu/) 
+  Your official Cornell email account. Be sure to check your spam folder!
+* [WhoIAm](https://it.cornell.edu/whoiam)
   Cornell gives you the choice of putting e-mail to your netID address into either CMail (i.e. GMail) or an Exchange account (i.e. Outlook; if you activate it), or forward it to an arbitrary e-mail address you give them. This page is where you configure that. You can also configure how you show up in Cornell's electronic directory here.
 
  
@@ -46,7 +48,7 @@ Some students choose to live farther from town, often north of campus in Lansing
 
  
 ## Shopping
-The biggest grocery store in Ithaca is Wegmans. They also have some home goods (dishes, beauty products). However, Wegmans is outside of downtown, so you’ll need to drive or take the bus (unless you’re up for a longer walk). Downtown, there is the Greenstar Co-op, which has organic, local food. It is smaller and tends to be more expensive than Wegmans, but it’s also much more convenient.
+The biggest grocery store in Ithaca is Wegmans. They also have some home goods (dishes, beauty products). However, Wegmans is outside of downtown, so you’ll need to drive or take the bus (unless you’re up for a longer walk). Downtown, there are also the brand new Greenstar Co-op, which has lots of organic, local food, and Aldi, which has discounted prices.
 
 There is no Ikea in Ithaca, but there is a Target and a TJ Maxx, both of which have some simple furniture and lots of home goods. You can also find nice used furniture at Mimi’s Attic in downtown Ithaca or on Craigslist.
 
@@ -89,7 +91,7 @@ If you take a taxi, It currently costs $17.50 to go to or from the airport. The 
  
 ## Courses
 
-You can find the list of courses for Fall 2018 here: https://classes.cornell.edu/browse/roster/FA18
+You can find the list of courses for Fall 2020 here: https://classes.cornell.edu/browse/roster/FA20
 
 Information Science has five core courses and you must take at least four of these. You can read more about the core courses here:
 
@@ -168,7 +170,7 @@ Gates Hall houses both the Computer Science and Information Science departments.
 Use eduroam instead of RedRover whenever you can. eduroam is more secure, and as a bonus you automatically get internet at many universities across the world (especially in Europe). Just log on with "[NetID]@cornell.edu" as your username and your NetID password. Warning: free Internet usage for students is capped at 100GB. After those 100GB, you'll have to pay for your usage. This does not apply to machines plugged into the CS network (i.e. your desktop, or also your laptop when using a wired connection in Gates), so you should largely be fine.
 
 ### Software
-Cornell offers lots of productivity software either for free or with large discounts. In particular, you can get a free Microsoft Office 365 license.
+Cornell offers lots of productivity software either for free or with large discounts. In particular, you can get a free [Microsoft Office 365](https://it.cornell.edu/software-licensing/microsoft-office-students) license.
 
  
 ## Getting out of Ithaca
