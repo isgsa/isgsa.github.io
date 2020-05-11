@@ -50,7 +50,7 @@ Some students choose to live farther from town, often north of campus in Lansing
 ## Shopping
 The biggest grocery store in Ithaca is Wegmans. They also have some home goods (dishes, beauty products). However, Wegmans is outside of downtown, so you’ll need to drive or take the bus (unless you’re up for a longer walk). Downtown, there are also the brand new Greenstar Co-op, which has lots of organic, local food, and Aldi, which has discounted prices.
 
-There is no Ikea in Ithaca, but there is a Target and a TJ Maxx, both of which have some simple furniture and lots of home goods. You can also find nice used furniture at Mimi’s Attic in downtown Ithaca or on Craigslist.
+There is no Ikea in Ithaca, but there is a Target and a TJ Maxx, both of which have some simple furniture and lots of home goods. You can also find nice used furniture at Mimi’s Attic in downtown Ithaca, at the Ithaca ReUse Center, or on Craigslist.
 
  
 ## Transportation
