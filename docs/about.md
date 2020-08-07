@@ -18,7 +18,7 @@ The Information Science Graduate Student Organization (ISGSA) represents all gra
 {:toc}
 
 ## 2020-2021 Executive Board
-* Presidents: Negar Khojasteh (Ithaca), Rama Adithya (Tech)
+* Presidents: Negar Khojasteh (Ithaca), Rama Adithya Varanasi (Tech)
 * Vice President: Jiajing Guo (Ithaca)
 * Treasurer: Anthonia Carter (Ithaca) 
 * Cornell Tech Liaison: Emily Tseng (Tech)
