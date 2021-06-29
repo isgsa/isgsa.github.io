@@ -48,9 +48,11 @@ Some students choose to live farther from town, often north of campus in Lansing
 
  
 ## Shopping
-The biggest grocery store in Ithaca is Wegmans. They also have some home goods (dishes, beauty products). However, Wegmans is outside of downtown, so you’ll need to drive or take the bus (unless you’re up for a longer walk). Downtown, there are also the brand new Greenstar Co-op, which has lots of organic, local food, and Aldi, which has discounted prices.
+The biggest grocery store in Ithaca is Wegmans. They also have some home goods (dishes, beauty products). However, Wegmans is outside of downtown, so you’ll need to drive or take the bus (unless you’re up for a longer walk). Downtown, there are also the Greenstar Co-op, which has lots of organic, local food, and Aldi, which has discounted prices. Trader Joe's and Walmart are also in Ithaca but it is a considerable distance from downtown.
 
-There is no Ikea in Ithaca, but there is a Target and a TJ Maxx, both of which have some simple furniture and lots of home goods. You can also find nice used furniture at Mimi’s Attic in downtown Ithaca, at the Ithaca ReUse Center, or on Craigslist.
+Grocery delivery options are plentiful with Instacart and Walmart+. 
+
+There is no IKEA in Ithaca, but there is a Target and a TJ Maxx, both of which have some simple furniture and lots of home goods. You can also find nice used furniture at Mimi’s Attic in downtown Ithaca, at the Ithaca ReUse Center, on Craigslist, or Facebook Marketplace.
 
  
 ## Transportation
@@ -151,6 +153,8 @@ There are also some fun courses available to all students at Cornell. Some cours
     * $$$ French food, delicious but expensive.
 * **Northstar House**
     * $$ Located in Fall Creek, casual place for brunch or dinner
+* **Hawi**
+    * $$ Ethiopian food near the Commons with good vegetarian options   
 
  
 ## Healthcare
@@ -188,3 +192,31 @@ Flights out of Ithaca only go to Philadelphia, Washington D.C., and Detroit.
 These flights can often be very expensive, especially at times when the undergrads will be traveling (just before classes start, the day that spring break starts, etc.). You should plan your travel months in advance, if possible.
 
 You can also fly to nearby airports, such as Elmira, Syracuse, or NYC and take the bus or rent a car to get to campus. There is a shuttle van (no, not a limo) to Syracuse: http://www.ithacaairlinelimousine.com/to-syracuse 
+
+## Additional topics for international students
+
+### COVID-related: vaccines, quarantine, and testing
+You can receive your first dose in another country and receive another dose here. All pharmacies should take Cornell insurance. This is a good website for searching up vaccine doses by appointment time and brand: https://www.vaccinespotter.org/ 
+You can also receive both doses here or one dose of Johnson&Johnson if you have not received any vaccines yet. 
+
+As of summer 2021, New York state does not mandate arrival quarantine. A 7-day quarantine is recommended. You may want to contact your roommates, lab mates, and advisor to discuss their comfort level for meeting within the first week. 
+
+### Getting a bank account
+A common national bank used by PhD students is Chase. It's likely that you will not have a SSN (social security number) so you cannot apply for a chequing account online. The Chase office is by the end of Ithaca Commons in downtown. Bring your passport and I-20 / student visa. There are also promotional offers (e.g. $225 bonus for setting up direct deposit) - just search for them before you book your appointment to set up an account. 
+
+### Getting a SSN
+You generally need an SSN to pay taxes. It also makes it easier to apply for a credit card and have a credit history in the US. If you have never worked in the USA before, you likely do not have an SSN. You can only apply for an SSN if you are working (GRA/TA), not for fellowships or scholarships. To apply for an SSN (as of summer 2021), call beforehand to set up an appointment. Prior to the appointment, make sure you've requested and will receive a letter of employment from the Office of Global Affairs. Currently this is sent by mail and it can take 5-7 days to arrive. Documents you will need: passport, I-94, I-20 / student visa, letter of employment. 
+
+This website has more information: https://international.globallearning.cornell.edu/employment-and-taxes/apply-ssn
+
+### Getting an ITIN
+If you are on a fellowship and need to pay taxes on your fellowship, consider applying for an ITIN. From Cornell's website: "Unfortunately, getting an ITIN is not a sure thing! Many ITIN applications are denied, in our experience, and it can take up to nine months to get a response." 
+More info: https://international.globallearning.cornell.edu/employment-and-taxes/apply-itin
+
+### Paying taxes 
+According to New York State law, students need to pay taxes on their fellowships and earnings. 
+
+### Fellowships 
+Cornell gives out a number of fellowships to incoming students each year. You may also apply for other fellowships - industry or governmental. There's another resource for industry fellowships application (link to be added). If you are awarded a fellowship and it does not cover the full guaranteed stipend amount, Cornell might "top it off". But the fellowship must be at least half of the stipend (with an exception to diversity awards).
+
+https://gradschool.cornell.edu/financial-support/fellowships/external-fellowships/supplementation-of-external-fellowships/
