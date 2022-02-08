@@ -17,6 +17,16 @@ The Information Science Graduate Student Organization (ISGSA) represents all gra
 1. TOC
 {:toc}
 
+## 2021-2022 Executive Board
+* Presidents: Alexandra Bremers (Tech), Rosamond Thalken (Tech)
+* Vice President: Farhana Shahid (Ithaca)
+* Treasurer: Mehrnaz Sabet (Ithaca) 
+* Social Chair: Joy Ming (Ithaca) 
+* GPSA Representative: Kimberly Williamson
+* Hiring Representatives: Swati Mishra (Ithaca), Ilan Mandel (Tech)
+* Admission Representatives:  Mina Chen (Ithaca), Jenny Fu (Ithaca), Aspen Russell (Ithaca), Yiran Zhao (Tech)
+* IS Seminar/Colloquium Coordinators: Maria Antoniak (Ithaca), Janet Chen (Ithaca), Jen Liu (Ithaca), Pegah Moradi (Ithaca)
+
 ## 2020-2021 Executive Board
 * Presidents: Negar Khojasteh (Ithaca), Rama Adithya Varanasi (Tech)
 * Vice President: Jiajing Guo (Ithaca)
