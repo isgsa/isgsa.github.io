@@ -41,6 +41,7 @@ This is a listing of past and present Information Science PhD students, by the y
 ## Entered in 2020
 * Jatin Arora
 * Alexandra Bremers
+* Janet Chen
 * Youjie Chen
 * Xiyu (Jenny) Fu
 * Ricardo Gonzalez
@@ -49,13 +50,11 @@ This is a listing of past and present Information Science PhD students, by the y
 * Menglin Jia
 * Pin-Sung Ku
 * Xiaoyan Li
-* Ke Li
 * Ilan Mandel
 * Joy Ming
 * Pegah Moradi
 * Aspen Russell
 * Mehrnaz Sabet
-* Farhana Shahid
 * Rosamond Thalken
 * Ruidong Zhang
 * Dandi Zhao
