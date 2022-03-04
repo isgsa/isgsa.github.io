@@ -17,6 +17,28 @@ This is a listing of past and present Information Science PhD students, by the y
 {:toc}
 
 ## Entered in 2020
+* Federica Bologna
+* Zekun Chang
+* Madiha Zahrah Choksi
+* Serena (Ge) Guo
+* Daye Kang
+* Jieun Kim
+* Tuan-he Lee
+* Fengyang Lin
+* Johan Michalove
+* Daniel Mwesigwa
+* Jennifer Otiono
+* Michael Sack
+* Hauke Sandhaus
+* Sterling Williams-Ceci
+* Marina Zafiris
+* Farhana Shahid
+* Ke Li
+* Liam Albright
+* Kowe Kadoma
+* Benjamin Laufer
+
+## Entered in 2020
 * Jatin Arora
 * Alexandra Bremers
 * Youjie Chen
