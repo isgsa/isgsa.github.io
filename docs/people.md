@@ -16,7 +16,7 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
-## Entered in 2020
+## Entered in 2021
 * Federica Bologna
 * Zekun Chang
 * Madiha Zahrah Choksi
