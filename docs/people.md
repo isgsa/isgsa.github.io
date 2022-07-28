@@ -16,6 +16,38 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
+## Entered in 2022
+* Dhruv Agarwal
+* Jordan Ali
+* Vincent Bartle
+* Pelinsu Ciftcioglu
+* Jazmin Collins
+* Jose Guridi Bustos
+* Shu-Jung Han
+* Yeon Ju Jang
+* Crescentia Jung
+* Waki Kamino
+* Eunjeong Kang
+* Hyunju Kim
+* Amritansh Kwatra
+* Alexander Lant
+* Jinsook Lee
+* Chi-Jung Lee
+* Stacey Li
+* Saif Mahmud
+* Ruth Martinez-Yepes
+* Katherine Miller
+* Daniel Molitor
+* Maria Teresa Parreira Bento
+* Jonathan Segal
+* Ian Solano-Kamaiko
+* Gabriel Spessato Agostini
+* Tauhid Tanjim
+* Yan Tao
+* I-Ting Tsai
+* Andrea Wang
+* Tianhong (Catherine) Yu
+
 ## Entered in 2021
 * Federica Bologna
 * Zekun Chang
