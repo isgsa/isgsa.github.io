@@ -19,7 +19,7 @@ ISGSA hosts and co-hosts a number of recurring and ad-hoc events during each sem
 ---
 
 ## Information Science Seminar
-IS Seminar is a weekly talk series where graduate students in the IS program share their in-progress and finished research. It is entirely run by the PhD students, with periodic faculty panels or invited talks from graduate students at other universities.  **Join us on Tuesdays at 1pm in Gates 203 or on Zoom.**
+IS Seminar is a weekly talk series where graduate students in the IS program share their in-progress and finished research. It is entirely run by the PhD students, with periodic faculty panels or invited talks from graduate students at other universities.  **Join us on Fridays at 1pm in Gates 203 (Ithaca), Bloomberg 301 (Tech), or on Zoom.**
 
 ## Information Science Colloquium
 The Information Science Colloquium regularly hosts leading scholars from around the world who are addressing today's biggest challenges in topics ranging from mobile sensing and virtual reality to HCI and workplace surveillance. **Talks are typically held from 4 to 5 p.m. Wednesdays and Fridays in Gates Hall or on Zoom.**
