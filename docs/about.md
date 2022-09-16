@@ -18,6 +18,16 @@ The Information Science Graduate Student Organization (ISGSA) represents all gra
 {:toc}
 
 ## 2021-2022 Executive Board
+Presidents: Federica Bologna (Ithaca), Kowe Kadoma (Tech)
+Vice president: Jennifer Otiono (Ithaca)
+Treasurer: Jonathan Segal (Ithaca)
+Cornell Tech liaison: Hauke Sandhaus (Tech)
+Social chair: Jingjin Li (Ithaca)
+Hiring representatives: Maya Mundell
+Admissions representatives : Tuan-he Lee (Ithaca), Fengyang Lin (Ithaca), Andy Zhao (Tech)
+IS seminar co-coordinators: Joy Ming (Ithaca), Farhana Shahid (Ithaca)
+
+## 2021-2022 Executive Board
 * Presidents: Alexandra Bremers (Tech), Rosamond Thalken (Ithaca)
 * Vice President: Farhana Shahid (Ithaca)
 * Treasurer: Mehrnaz Sabet (Ithaca) 
