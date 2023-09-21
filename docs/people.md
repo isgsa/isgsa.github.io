@@ -58,7 +58,7 @@ This is a listing of past and present Information Science PhD students, by the y
 * Tuan-he Lee
 * Fengyang Lin
 * Johan Michalove
-* Daniel Mwesigwa
+* Daniel Mwesigwa_
 * Jennifer Otiono
 * Michael Sack
 * Hauke Sandhaus
