@@ -16,6 +16,35 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
+## Entered in 2023
+* Bateyko	Daniel
+* Batra	Ritik
+* Cortes Rico	Laura
+* Firullo	Cristiana
+* Gonzalez Alexandra
+* Gosciak	Jenna
+* Harvey Emma
+* Hashemi Fesharaki	Seyedeh Farnoosh
+* Jallow Khadijatou
+* Kim	Haesoo
+* Kusumegi Keigo
+* Liu	Meng Hui (Kiara)
+* Mishra Dibyendu
+* Monroe Ayana
+* Tseng	Yu Chia
+* Wang Yadi
+* Wang Yicheng (Tony)
+* Wise Talia
+* Yang Xinyu
+* Zhang Chao
+* Zhu	Shengqi
+* Ahmed	Tanvir
+* Feng Shuo
+* Gemicioglu Tan
+* Lloyd	Travis
+* Viranda	Thalia
+* Yessenbayev	Olzhas
+
 ## Entered in 2022
 * Dhruv Agarwal
 * Jordan Ali
@@ -58,7 +87,7 @@ This is a listing of past and present Information Science PhD students, by the y
 * Tuan-he Lee
 * Fengyang Lin
 * Johan Michalove
-* Daniel Mwesigwa_
+* Daniel Mwesigwa
 * Jennifer Otiono
 * Michael Sack
 * Hauke Sandhaus
