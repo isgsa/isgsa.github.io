@@ -23,7 +23,7 @@ Welcome to Information Science at Cornell! This guide has been created by curren
 ## Useful Websites
 
 * [StudentCenter](https://studentcenter.cornell.edu/)
-  You probably already know this one. It is the most accurate and up-to-date source of relevant information with regard to your formal status in the university.
+  You probably already know this one. It is the most accurate and up-to-date source of relevant information concerning your formal status in the university.
 * [StudentEssentials](https://studentessentials.cornell.edu/)
   Cornell's more global version of this site.
 * [Cornell Workday](https://hr.cornell.edu/workday)
@@ -37,13 +37,13 @@ Welcome to Information Science at Cornell! This guide has been created by curren
 ## Housing
 We primarily recommend using Facebook or Craigslist to find housing in Ithaca. You could also use the #housing channel on the CIS slack or even word-of-mouth. 
 
-Although Facebook is almost an archaeological site at this point, the [Cornell University Housing, Sublets & Roommates] (https://www.facebook.com/groups/1567221950234112) private group on Facebook is very good. Please send a request to join the group as soon as you accept your offer. Alternatively, please contact the student leadership -- notably Dhruv Agrawal (Ithaca) and Tauhid Tanjim (Cornell Tech) -- for help in getting added to the group.
+Although Facebook is almost an archaeological site at this point, the [Cornell University Housing, Sublets & Roommates](https://www.facebook.com/groups/1567221950234112) private group on Facebook is very good. Please send a request to join the group as soon as you accept your offer, and start house hunting immediately. Alternatively, please contact the student leadership -- notably Dhruv Agrawal (Ithaca) and Tauhid Tanjim (Cornell Tech) -- for help in getting added to the group.
 
 Please use the following sites to search for apartments or standalone rooms  on Craigslist.
 * https://ithaca.craigslist.org/search/apa
 * https://ithaca.craigslist.org/search/roo
 
-To join the CIS slack, contact the student leadership (or an assigned mentor) to be added. 
+To join the CIS Slack, contact the student leadership (or an assigned mentor) to be added. 
 
 The most popular neighborhoods for graduate students are downtown (on or near the Ithaca Commons) and Fall Creek (located north of downtown). Both of these neighborhoods are a short bus ride or a 20 minute walk to campus. Fall Creek is a quiet, residential neighborhood that is close to both the Cascadilla Gorge and Ithaca Falls, but only a 5 minute walk from downtown. Downtown has larger, newer apartment buildings, but it can be a bit noisy because of bars and restaurants.
 
@@ -91,16 +91,14 @@ If you don’t have a car but would like to occasionally use one for groceries, 
 ### Taxis
 There is Uber and Lyft in Ithaca! While convenient, they can be pricier.
 
-There is also [College Town Cab] (http://collegetowncab.com/) service. If you take a cab, it costs about $17.50 to go to or from the airport. The driver will make multiple stops along the way to pick up other passengers, so it can sometimes take a while to get to the airport (even though it’s about a 15 minute drive).
+There is also [College Town Cab](http://collegetowncab.com/) service. If you take a cab, it costs about $17.50 to go to or from the airport. The driver will make multiple stops along the way to pick up other passengers, so it can sometimes take a while to get to the airport (even though it’s about a 15 minute drive).
 
  
 ## Courses
 
 You can find the list of courses for enrollment here: https://classes.cornell.edu
 
-Information Science has five core course areas and you must take a course in at least four of these. You can read more about the core courses here:
-
-http://infosci.cornell.edu/academics/phd/requirements
+Information Science has five core course areas and you must take a course in at least four of these. You can read more about the core courses [here](https://infosci.cornell.edu/phd/degree-requirements-and-curriculum).
 
 Most PhD students take 0-2 courses per semester. If you are TAing or doing research, we strongly recommend taking no more than two courses. Some students take three courses, but it is a lot of work---be warned!
 
@@ -151,17 +149,17 @@ There are also some fun courses available to all students at Cornell. Some cours
 
 ### Restaurants
 * **Mia Tapas Bar**
-    * $$ Tapas (small dishes) and wine bar. Highly recommended!
+    * Tapas (small dishes) and wine bar. Highly recommended!
 * **Cent Dix**
-    * $$$ French food, delicious but expensive.
+    * French food, delicious but expensive.
 * **Northstar House**
-    * $$ Located in Fall Creek, a casual place for brunch or dinner
+    * Located in Fall Creek, a casual place for brunch or dinner
 * **Hawi**
-    * $$ Ethiopian food near the Commons with good vegetarian options
+    * Ethiopian food near the Commons with good vegetarian options
  * **Gorgers Subs**
-    * $$ Best submarine sandwiches (subs) with good vegetarian options
+    * Best submarine sandwiches (subs) with good vegetarian options
 
-You might want to check out this [Reddit thread] (https://www.reddit.com/r/Cornell/comments/17rqesj/my_guide_to_ithaca_restaurants/) on Ithaca restaurants. 
+You might want to check out this [Reddit thread](https://www.reddit.com/r/Cornell/comments/17rqesj/my_guide_to_ithaca_restaurants/) on Ithaca restaurants. 
 
 ## Healthcare
 
@@ -177,7 +175,7 @@ Their website is: https://health.cornell.edu/
 Gates Hall houses both the Computer Science and Information Science departments. Below is some information specific to Gates.
 
 ### Wifi
-Use eduroam instead of RedRover whenever you can. eduroam is more secure, and as a bonus you automatically get internet at many universities across the world (especially in Europe). Just log on with "[NetID]@cornell.edu" as your username and your NetID password. Warning: free Internet usage for students is capped at 100GB. After those 100GB, you'll have to pay for your usage. This does not apply to machines plugged into the CS network (i.e. your desktop, or also your laptop when using a wired connection in Gates), so you should largely be fine.
+Use eduroam instead of RedRover whenever you can. eduroam is more secure, and as a bonus you automatically get internet at many universities across the world (especially in Europe). Just log on with "[NetID]@cornell.edu" as your username and your NetID password. Warning: free Internet usage for students is capped at 100GB. After that 100GB, you'll have to pay for your usage. This does not apply to machines plugged into the CS network (i.e. your desktop, or also your laptop when using a wired connection in Gates), so you should largely be fine.
 
 ### Software
 Cornell offers lots of productivity software either for free or with large discounts. In particular, you can get a free [Microsoft Office 365](https://it.cornell.edu/software-licensing/microsoft-office-students) license.
@@ -222,6 +220,6 @@ More info: https://international.globallearning.cornell.edu/employment-and-taxes
 According to New York State law, students need to pay taxes on their fellowships and earnings. 
 
 ### Fellowships 
-Cornell gives out a number of fellowships to a select number of incoming students each year. You may also apply for other fellowships - industry or governmental. There's another resource for industry fellowships application (link to be added). If you are awarded a fellowship and it does not cover the full guaranteed stipend amount, Cornell might "top it off". But the fellowship must be at least half of the stipend (with an exception to diversity awards).
+Cornell gives out some fellowships to a select number of incoming students each year. You may also apply for other fellowships - industry or governmental. There's another resource for industry fellowships application (link to be added). If you are awarded a fellowship and it does not cover the full guaranteed stipend amount, Cornell might "top it off". But the fellowship must be at least half of the stipend (with an exception to diversity awards).
 
 https://gradschool.cornell.edu/financial-support/fellowships/external-fellowships/supplementation-of-external-fellowships/
