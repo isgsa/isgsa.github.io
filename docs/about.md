@@ -17,6 +17,18 @@ The Information Science Graduate Student Organization (ISGSA) represents all gra
 1. TOC
 {:toc}
 
+## 2023-2024 Executive Board
+* Presidents: Ruth Martinez-Yepes (Ithaca)
+* Vice president: Daniel Mwesigwa (Ithaca)
+* Treasurer: Shu-Jung Han (Ithaca), Jonathan Segal (Ithaca)
+* Cornell Tech liaison: TBD
+* Social chair: Ayana Monroe (Ithaca)
+* Hiring representatives: Jose Guridi Bustos (Ithaca), Ben Laufer (Tech)
+* Admissions representatives: Dhruv Agrawal (Ithaca), Tauhid Tanjim (Cornell Tech)
+* IS seminar co-coordinators: Farhana Shahid (Ithaca), Hauke Sandhaus (Tech)
+* Broadening Participation Representatives: Pelinsu Çiftçioğlu (Ithaca)  
+
+
 ## 2022-2023 Executive Board
 * Presidents: Federica Bologna (Ithaca), Kowe Kadoma (Tech)
 * Vice president: Jennifer Otiono (Ithaca)
