@@ -47,15 +47,15 @@ To ensure smooth and convenient travel, and to ensure funds are still available,
 
 * Regardless of which campus you are leaving from, please notify Barbara Woske in advance (two weeks prior to trip) about your planned trip. All arrangements will be coordinated out of Ithaca.
 * If traveling from Ithaca to TECH, secure a Faculty Host. Their signature is required on the support application form.
-* Use Adobe to complete the IS PhD Travel Support Application Form or print, collect signatures, scan and send via email to Barbara.  NOTE: An email confirmation from the DGS, Tanzeem Choudhury, is acceptable in lieu of her signature. Please be sure Barbara Woske and Terry Horgan are copied on this email.
-* Barbara/Terry Horgan will let you know about any limitations on reimbursement for your trip.
+* Use Adobe to complete the IS PhD Travel Support Application Form or print, collect signatures, scan, and send via email to Barbara.  NOTE: An email confirmation from the DGS, Tanzeem Choudhury, is acceptable in lieu of her signature. Please be sure Barbara Woske (or relevant administrative support staff) is copied on this email.
+* Barbara Horgan will let you know about any limitations on reimbursement for your trip.
 * Use the checklist (below) to arrange bus, lodging, and card access.
-* After travel is complete (within 30 days), please submit all travel and lodging receipts to Terry Horgan. Reimbursements beyond 30 days after the trip may be denied if funding has run low in the meantime.
+* After travel is complete (within 30 days), please submit all travel and lodging receipts to the assigned administrative support staff. Reimbursements beyond 30 days after the trip may be denied.
 
 ### Checklist
 
 1. Reserve your transportation
 2. Arrange your lodging
 3. Arrange card access for Cornell Tech — arrange through your faculty host so that you can come and go freely with your Cornell ID
-4. For students traveling to Ithaca; please check in with Barbara, 110 G Gates Hall or send her an email shortly after your arrival.  If you have any issues with your ID card accessing Gates, let Barbara and Terry know immediately. For students traveling to Tech be sure to check in with your faculty host as soon as possible.  
-5. File for reimbursement within 30 days of trip by emailing your receipts to Terry Horgan.
+4. For students traveling to Ithaca; please check in with Barbara, 110 G Gates Hall or send her an email shortly after your arrival.  If you have any issues with your ID card accessing Gates, let Barbara know immediately. For students traveling to Tech be sure to check in with your faculty host as soon as possible.  
+5. File for reimbursement within 30 days of trip by emailing your receipts to the assigned administrative support staff.
