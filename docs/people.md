@@ -16,34 +16,62 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
+## Entered in 2024
+* Axel Bax
+* Isabel Corpus
+* Jadon Geathers 
+* Joshua Greenberg	
+* Sil Hamilton
+* Nanyi Jiang	
+* Jae June Lee	
+* Xiaozhen Liu	
+* Tianqi Liu
+* Jamie Lu 
+* Gauri Nayak	
+* Zhiwen Qiu	
+* Deepak Varuvel Dennison
+* Borui Wang
+* Shuhong Wang
+* Yangfanyu Yang
+* Zhenyue Zhao	
+* Kuangqi Zhu
+* Yuanchen Bai	
+* Ann-Kareen Gedeus	
+* Ruixiang (Albert) Han	
+* Brandon Liu
+* Eden Shaveet
+* Chishang (Mario) Yang
+
+
+
 ## Entered in 2023
-* Bateyko	Daniel
-* Batra	Ritik
-* Cortes Rico	Laura
-* Firullo	Cristiana
-* Gonzalez Alexandra
-* Gosciak	Jenna
-* Harvey Emma
-* Hashemi Fesharaki	Seyedeh Farnoosh
-* Jallow Khadijatou
-* Kim	Haesoo
-* Kusumegi Keigo
-* Liu	Meng Hui (Kiara)
-* Mishra Dibyendu
-* Monroe Ayana
-* Tseng	Yu Chia
-* Wang Yadi
-* Wang Yicheng (Tony)
-* Wise Talia
-* Yang Xinyu
-* Zhang Chao
-* Zhu	Shengqi
-* Ahmed	Tanvir
-* Feng Shuo
-* Gemicioglu Tan
-* Lloyd	Travis
-* Viranda	Thalia
-* Yessenbayev	Olzhas
+* Daniel Bateyko
+* Ritik Batra	
+* Laura Cortes Rico	
+* Cristiana Firullo	
+* Alexandra Gonzalez 
+* Jenna Gosciak	
+* Emma Harvey 
+* Farnoosh Hashemi Fesharaki Seyedeh 
+* Khadijatou Jallow
+* Haesoo Kim	
+* Keigo Kusumegi 
+* Meng Hui (Kiara) Liu	
+* Dibyendu Mishra
+* Ayana Monroe
+* Yu Chia Tseng	
+* Yadi Wang
+* Yicheng (Tony) Wang
+* Talia Wise
+* Xinyu Yang 
+* Chao Zhang 
+* Shengqi Zhu	
+* Tanvir Ahmed
+* Shuo Feng
+* Tan Gemicioglu 
+* Travis Lloyd
+* Thalia Viranda	
+* Olzhas Yessenbayev	
 
 ## Entered in 2022
 * Dhruv Agarwal
