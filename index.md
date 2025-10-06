@@ -4,7 +4,9 @@ Welcome to the ISGSA website!
 
 This space is for current graduate students in Information Science at Cornell University to share information and resources. 
 
-We are a registered student organization of Cornell University.
+With a founding principle of “... any person ... any study,” Cornell is an <a href="https://hr.cornell.edu/about/workplace-rights/equal-education-and-employment">equal opportunity employer and educator</a>.
+
+This organization is a registered student organization of Cornell University.
 
 <br><br>
 
