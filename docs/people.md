@@ -16,6 +16,15 @@ This is a listing of past and present Information Science PhD students, by the y
 1. TOC
 {:toc}
 
+## Entered in 2025
+* Jingruo Chen
+* Nayeon Kwon
+* Jiacheng Liu
+* Jamie Liu
+* Vyoma Raman
+* Carrie Wang
+
+
 ## Entered in 2024
 * Axel Bax
 * Isabel Corpus
